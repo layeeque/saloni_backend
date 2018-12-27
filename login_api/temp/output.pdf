@@ -1,0 +1,9 @@
+{ personalDetails: 
+   { firstname: 'fashio',
+     lastname: 'ka hai',
+     DOB: '2010-01-31T18:30:00.000Z',
+     email: 'salonikotharicitm@gmail.com',
+     mobile: '44444444444',
+     permanentAddress: 'fdfds',
+     currentAddress: 'fdsfsdf' },
+  _id: 5bf6aca0775bc783c0d81229 }
